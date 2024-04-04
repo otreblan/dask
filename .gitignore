@@ -1,0 +1,11 @@
+# create by https://github.com/iamcco/coc-gitignore (Thu Apr 04 2024 16:52:03 GMT-0500 (hora estándar de Perú))
+# JupyterNotebooks.gitignore:
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
