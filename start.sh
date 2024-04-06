@@ -12,4 +12,7 @@ source j-venv/bin/activate
 # cd /usr/share/jupyter/labextensions/@axlair
 # sudo ln -s /home/aru/Utec/2024-1/big-data/dask/j-venv/share/jupyter/labextensions/@axlair
 
+
+# sudo pacman -S python-distributed python-ipympl python-pandas python-graphviz graphviz python-pyarrow python-dask
+
 jupyter lab
